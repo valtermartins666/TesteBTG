@@ -1,0 +1,11 @@
+D:\Treinamentos\.NetCore\CRUD\Jokenpo\Jokenpo\bin\Debug\netcoreapp2.1\Jokenpo.deps.json
+D:\Treinamentos\.NetCore\CRUD\Jokenpo\Jokenpo\bin\Debug\netcoreapp2.1\Jokenpo.runtimeconfig.json
+D:\Treinamentos\.NetCore\CRUD\Jokenpo\Jokenpo\bin\Debug\netcoreapp2.1\Jokenpo.runtimeconfig.dev.json
+D:\Treinamentos\.NetCore\CRUD\Jokenpo\Jokenpo\bin\Debug\netcoreapp2.1\Jokenpo.dll
+D:\Treinamentos\.NetCore\CRUD\Jokenpo\Jokenpo\bin\Debug\netcoreapp2.1\Jokenpo.pdb
+D:\Treinamentos\.NetCore\CRUD\Jokenpo\Jokenpo\obj\Debug\netcoreapp2.1\Jokenpo.csprojAssemblyReference.cache
+D:\Treinamentos\.NetCore\CRUD\Jokenpo\Jokenpo\obj\Debug\netcoreapp2.1\Jokenpo.csproj.CoreCompileInputs.cache
+D:\Treinamentos\.NetCore\CRUD\Jokenpo\Jokenpo\obj\Debug\netcoreapp2.1\Jokenpo.AssemblyInfoInputs.cache
+D:\Treinamentos\.NetCore\CRUD\Jokenpo\Jokenpo\obj\Debug\netcoreapp2.1\Jokenpo.AssemblyInfo.cs
+D:\Treinamentos\.NetCore\CRUD\Jokenpo\Jokenpo\obj\Debug\netcoreapp2.1\Jokenpo.dll
+D:\Treinamentos\.NetCore\CRUD\Jokenpo\Jokenpo\obj\Debug\netcoreapp2.1\Jokenpo.pdb
